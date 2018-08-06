@@ -9,7 +9,7 @@ logo: /stories/rioleringsgebieden/logo.jpg
 
 # Combineren van gegevensbronnen voor waterzuivering
 
-Waterschappen maken gebruik van veel verschillende informatiebronnen bij het beheer van grijs water, oppervlakte water en drinkwater. Is het mogelijk om deze bronnen met behulp van Linked Data en SPARQL 'on the fly' bijeen te verzamelen? Deze data story verkent de mogelijkheden om 'federatief' vanuit verschillende bronnen informatie te vergaren rondom het thema waterzuivering.
+Waterschappen maken gebruik van veel verschillende informatiebronnen bij het beheer van afvalwater, oppervlakte water en drinkwater. Is het mogelijk om deze bronnen met behulp van Linked Data en SPARQL 'on the fly' te verzamelen? Deze data story verkent de mogelijkheden om 'federatief' vanuit verschillende bronnen informatie te vergaren rondom het thema waterzuivering.
 
 ## Rioleringsgebied Pancras 
 De data bij het GWSW beschikt over informatie rondom het thema waterzuivering. Zo heeft een rioolwaterzuiveringsinstallatie (RWZI) een aantal rioolgebieden die afwateren naar de RWZI. Vaak zit hier een gemaal bij om het transport een handje te helpen. 
